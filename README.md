@@ -7,4 +7,4 @@ Play against another player in your browser — no installs or dependencies requ
 🔄 Restart game button  
 ✨ Stylish and responsive UI  
 🧠 Winner detection with highlight  
-🌐 Live Demo:- https://adarsh-tic-tac-toe.netlify.app/
+🌐 Live Demo:- https://adarsh73.netlify.app/
